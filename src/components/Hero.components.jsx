@@ -44,7 +44,7 @@ const HeroComponents = () => {
           </div>
           <div className=" mt-4 flex gap-4">
             <Button variant="default">Hire Me</Button>
-            <Button variant="outline"> My IT journey</Button>
+            <Button variant="outline"  className="shadow"> My IT journey</Button>
           </div>
           <div className="absolute w-full flex bottom-28 left-80 right-0">
             <svg
